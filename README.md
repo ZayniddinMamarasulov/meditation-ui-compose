@@ -1,3 +1,3 @@
 Compose UI sample App 
 
-![](screenshots/screenshot_1.png)
+![](screenshots/screen_1.png)
