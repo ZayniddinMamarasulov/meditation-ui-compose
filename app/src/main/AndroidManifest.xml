@@ -10,6 +10,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MeditationUIYouTube">
         <activity
+            android:name=".DropDownActivity"
+            android:exported="true"
+            android:label="@string/title_activity_drop_down"
+            android:theme="@style/Theme.MeditationUIYouTube">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".TimerActivity"
             android:exported="true"
             android:label="@string/title_activity_timer"

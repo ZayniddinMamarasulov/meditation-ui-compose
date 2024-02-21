@@ -4,5 +4,8 @@ Compose UI sample App
 
 Timer UI
 
-
 ![](screenshots/timer_screenshot.png)
+
+Drop down
+
+![](screenshots/dropdown.gif)
